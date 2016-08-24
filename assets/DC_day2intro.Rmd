@@ -115,4 +115,5 @@ Have sympathy for your future self.
     mutate          weight/1000.0
     group_by        GROUP BY
     summarize       COUNT(*), AVG(weight)
+    arrange         ORDER BY
 ```
